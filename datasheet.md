@@ -1,6 +1,6 @@
 # **L293D Motor Driver IC**
 
-![](https://files.oaiusercontent.com/file-6J481b51uniEeZEH6icnNQ?se=2024-12-03T10%3A27%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1a75c954-addc-4b8a-b03a-2df644aa259c.webp&sig=9xl5jxeEgL%2BdI1l6UarYQstuYA5GXHFAEEJ23rN00bw%3D)
+![](https://components101.com/sites/default/files/inline-images/L293D-circuit.png)
 ## **Overview**
 The **L293D** is a popular motor driver IC used to control the speed and direction of DC motors and stepper motors. It acts as a bridge between low-power microcontroller signals and high-power motors, amplifying the signal to drive the motors effectively.
 
